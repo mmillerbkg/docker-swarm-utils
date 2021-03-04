@@ -1,0 +1,7 @@
+docker-swarm-nodes.txt
+
+certs
+shared
+*.log
+
+
